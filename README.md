@@ -1,17 +1,17 @@
 
-## ✅ **Project Title:**
+##  **Project Title:**
 
 **Vision-Aided Intelligence with Visual Question Answering for Medical Imaging**
 
 ---
 
-## 🔍 **What is the project about?**
+##  **What is the project about?**
 
 This project is an **AI-based healthcare solution** that answers natural language clinical questions based on **retinal fundus images** to support doctors in diagnosing **Diabetic Macular Edema (DME)**. It uses **Visual Question Answering (VQA)**—a machine learning technique combining image processing and natural language understanding.
 
 ---
 
-## 🎯 **Motivation / Problem Statement:**
+##  **Motivation / Problem Statement:**
 
 * In medical imaging, radiologists and ophthalmologists often need **quick and accurate interpretation** of images along with answers to specific questions.
 * Manual diagnosis of DME is time-consuming and subjective. There's a need for **AI tools** that can provide **consistent, accurate, and explainable** outputs.
@@ -19,7 +19,7 @@ This project is an **AI-based healthcare solution** that answers natural languag
 
 ---
 
-## 🧠 **Core Technologies Used:**
+##  **Core Technologies Used:**
 
 | Component                         | Purpose                                                                       |
 | --------------------------------- | ----------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ This project is an **AI-based healthcare solution** that answers natural languag
 
 ---
 
-## 🛠️ **How It Works (Workflow Overview):**
+## 🛠 **How It Works (Workflow Overview):**
 
 1. **Image and question are inputs** to the system.
 2. **Preprocessing:**
@@ -50,7 +50,7 @@ This project is an **AI-based healthcare solution** that answers natural languag
 
 ---
 
-## 📊 **Results Achieved:**
+##  **Results Achieved:**
 
 * **Training Accuracy:** 96.88%
 * **Validation Accuracy:** 87.52%
@@ -58,7 +58,7 @@ This project is an **AI-based healthcare solution** that answers natural languag
 
 ---
 
-## 💡 **Key Innovations:**
+##  **Key Innovations:**
 
 * Unlike rule-based systems, this model **learns to answer both direct and related questions** consistently (e.g., about different retinal regions).
 * Despite being a lightweight multimodal fusion model, it showed **high accuracy and interpretability**, important for medical domains.
@@ -66,7 +66,7 @@ This project is an **AI-based healthcare solution** that answers natural languag
 
 ---
 
-## 📁 **Dataset Used:**
+##  **Dataset Used:**
 
 * Combined images from **IDRiD and e-Ophta** datasets.
 * Total of **\~679 images** and **13,470+ question-answer pairs**.
@@ -78,14 +78,14 @@ This project is an **AI-based healthcare solution** that answers natural languag
 
 ---
 
-## ⚙️ **Performance Evaluation:**
+## ⚙ **Performance Evaluation:**
 
 * Consistency was tested by comparing the model’s answers across similar inputs.
 * Achieved reliable grading of DME and detection of features without needing handcrafted logic.
 
 ---
 
-## 🚀 **Future Scope:**
+##  **Future Scope:**
 
 * Incorporate **transformer models** like BERT for better language understanding.
 * Use **attention mechanisms** and external medical knowledge bases for enhanced reasoning.
